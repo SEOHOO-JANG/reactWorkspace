@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"name": "reactWorkspace",
+		"path": "reactWorkspace"
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true
+  }
+}
