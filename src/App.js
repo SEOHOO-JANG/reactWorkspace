@@ -25,7 +25,7 @@ const b = 20; // 상수
 
 function App() {
   let c;
-  let d = undefined;
+  //let d = undefined;
   console.log(1,c);
 
   const mystyle = { 
