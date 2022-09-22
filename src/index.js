@@ -3,13 +3,17 @@ import ReactDOM from 'react-dom/client';
 import {BrowserRouter} from 'react-router-dom';
 import './index.css';
 import App from './App';
+import UseEffect from './UseEffect';
 import reportWebVitals from './reportWebVitals';
+import UseMemo from './UseMemo';
+import UseRef from './UseResf';
+import App2 from './App2';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <BrowserRouter> 
-    <App />
+    <App2/> 
     </BrowserRouter>
   </React.StrictMode>
 );
